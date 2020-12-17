@@ -1,0 +1,9 @@
+{
+    "name": "chatting",
+    "version": "0.0.1",
+    "description": "채팅프로그램",
+    "dependencies": {
+        "socket.io": "~0.9.6",
+        "mime": "2.4.6"
+    }
+}
